@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navigation{
+    height: 34px;
+    background-color: aqua;
+
+}
+
+.container{
+    height: 67px;
+    background-color: blue;
+
+}
+
+.footer{
+    height: 40px;
+    background-color: red;
+
+}
